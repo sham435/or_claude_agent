@@ -1,0 +1,6 @@
+{
+  "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
+  "ANTHROPIC_API_KEY": "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",
+  "ANTHROPIC_MODEL": "qwen/qwen3.6-plus-preview:free",
+  "OLLAMA_MODEL": "deepseek-r1:8b"
+}
